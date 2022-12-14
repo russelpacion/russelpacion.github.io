@@ -4,11 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     font-family: sans-serif;
     background-color: black;
-   
   
 }
 #menu{
@@ -21,7 +19,6 @@ body{
     padding: 0 5%;
     z-index: 2;
     position: fixed;
-    
 }
 .logo{
     color: aliceblue;
@@ -88,8 +85,8 @@ body{
 }
 #bg{
     height: 100vh;
-    width: 100%;
-   
+    width: 40%;
+    margin-left: 60%;
     background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.2)), url(ulo.png);
     background-position: center;
     background-size: cover;
@@ -201,9 +198,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
 }
-
-
-
 
 #me{
     width: 100%;
